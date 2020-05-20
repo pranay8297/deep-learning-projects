@@ -61,7 +61,7 @@ fastprogress==0.1.21
 future==0.17.1
 fuzzywuzzy==0.17.0
 google-api-python-client==1.6.6
-httplib2==0.12.3
+httplib2==0.18.0
 hyperlink==19.0.0
 idna==2.8
 importlib-metadata==0.23
