@@ -47,7 +47,7 @@ django-oauth-toolkit==1.1.0
 django-oauth2-provider==0.2.6.1
 django-phonenumber-field==3.0.1
 django-rest-swagger==2.2.0
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 docutils==0.14
 dotobject==1.2.1
 elasticsearch==7.0.2
