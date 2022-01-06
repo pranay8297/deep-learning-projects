@@ -16,7 +16,7 @@ boto3==1.9.159
 botocore==1.12.159
 Bottleneck==1.2.1
 bs4==0.0.1
-celery==4.3.0
+celery==5.2.2
 cent==2.1.0
 certifi==2019.3.9
 cffi==1.12.3
